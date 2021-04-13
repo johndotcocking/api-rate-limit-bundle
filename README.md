@@ -1,3 +1,5 @@
+Archiving this because its PR was accepted by the upstream =) 
+
 ApiRateLimitBundle
 ==================
 
